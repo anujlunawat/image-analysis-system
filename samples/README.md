@@ -1,0 +1,1 @@
+These files are just example payloads so I can show what the inputs and outputs of the system look like. They aren’t from my actual AWS account and don’t contain any real identifiers or sensitive data. The goal is only to demonstrate the structure of the events and responses (S3 event, Rekognition output, and a DynamoDB item). Nothing here is meant to be used as-is in production.
