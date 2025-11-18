@@ -1,0 +1,18 @@
+{
+  "Records": [
+    {
+      "eventSource": "aws:s3",
+      "awsRegion": "ap-south-1",
+      "eventName": "ObjectCreated:Put",
+      "s3": {
+        "bucket": {
+          "name": "image-analysis-bucket-774"
+        },
+        "object": {
+          "key": "times-square.jpeg",
+          "size": 211168
+        }
+      }
+    }
+  ]
+}

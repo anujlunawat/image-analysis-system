@@ -1,0 +1,13 @@
+User Uploads Image
+        ↓
+      S3 Bucket
+        ↓
+  S3 Event Trigger
+        ↓
+      Lambda
+        ↓
+  Rekognition Analysis
+        ↓
+   DynamoDB Storage
+        ↓
+     SNS Email

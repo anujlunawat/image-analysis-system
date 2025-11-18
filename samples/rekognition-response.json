@@ -1,0 +1,44 @@
+{
+  "Labels": [
+    {
+      "Name": "Person",
+      "Confidence": 98.23
+    },
+    {
+      "Name": "Building",
+      "Confidence": 95.67
+    },
+    {
+      "Name": "Car",
+      "Confidence": 89.41
+    }
+  ],
+
+  "TextDetections": [
+    {
+      "DetectedText": "TIMES SQUARE",
+      "Type": "LINE",
+      "Confidence": 97.12
+    }
+  ],
+
+  "FaceDetails": [
+    {
+      "Confidence": 99.12,
+      "Emotions": [
+        {
+          "Type": "HAPPY",
+          "Confidence": 88.44
+        }
+      ],
+      "Smile": {
+        "Value": true,
+        "Confidence": 87.90
+      },
+      "AgeRange": {
+        "Low": 20,
+        "High": 32
+      }
+    }
+  ]
+}

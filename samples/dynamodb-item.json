@@ -1,0 +1,22 @@
+{
+  "filename": "times-square.jpeg",
+  "labels": [
+    { "Name": "Person", "Confidence": 98.23 },
+    { "Name": "Building", "Confidence": 95.67 },
+    { "Name": "Car", "Confidence": 89.41 }
+  ],
+  "text": [
+    "TIMES SQUARE"
+  ],
+  "faces": [
+    {
+      "Confidence": 99.12,
+      "Emotions": [
+        { "Type": "HAPPY", "Confidence": 88.44 }
+      ],
+      "Smile": { "Value": true, "Confidence": 87.90 },
+      "AgeRange": { "Low": 20, "High": 32 }
+    }
+  ],
+  "timestamp": "2025-11-18T17:12:58Z"
+}
